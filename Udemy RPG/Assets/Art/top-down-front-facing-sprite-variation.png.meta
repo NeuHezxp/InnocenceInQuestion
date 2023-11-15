@@ -152,7 +152,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      top-down-front-facing-sprite-variation_0: -2302846734686494041
+      top-down-front-facing-sprite-variation_1: 6249638504123391690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
