@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class MoveScript : MonoBehaviour
 {
+#pragma warning disable CS0108 // Member hides inherited member; missing new keyword
     public Rigidbody2D rigidbody;
+#pragma warning restore CS0108 // Member hides inherited member; missing new keyword
     public float movementSpeed = 5.0f;
     // Start is called before the first frame update
     void Start()
