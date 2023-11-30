@@ -34,7 +34,7 @@ public class NPC : MonoBehaviour
         Interactable.SetActive(!isCurrentlyActive); // Toggle the active state
 
         // Optionally trigger something in the dialogue manager
-        FindObjectOfType<DialogManager>().HandleInteraction("newspaper", !isCurrentlyActive);
+        FindFirstObjectByType<DialogManager>().HandleInteraction("newspaper", !isCurrentlyActive);
     }
 
 }

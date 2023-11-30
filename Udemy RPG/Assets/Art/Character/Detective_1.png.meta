@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 63ec136410d1c7542be0c3023ec3f252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2001904946784808717
+    second: Detective_1_0
+  - first:
+      213: 3589262335350016834
+    second: Detective_1_1
+  - first:
+      213: -5694120977913410551
+    second: Detective_1_2
+  - first:
+      213: 5884521088219949890
+    second: Detective_1_3
+  - first:
+      213: -3381990752508590692
+    second: Detective_1_4
+  - first:
+      213: -7135465123022735708
+    second: Detective_1_5
+  - first:
+      213: 774817257652913191
+    second: Detective_1_6
+  - first:
+      213: 1425534080875562937
+    second: Detective_1_7
+  - first:
+      213: -5450922250161269089
+    second: Detective_1_8
+  - first:
+      213: -4813981151121435510
+    second: Detective_1_9
+  - first:
+      213: -3220149282822821380
+    second: Detective_1_10
+  - first:
+      213: -364722144191494367
+    second: Detective_1_11
+  - first:
+      213: -6075234402849694122
+    second: Detective_1_12
+  - first:
+      213: -8041619744826809722
+    second: Detective_1_13
+  - first:
+      213: 7054268829815325046
+    second: Detective_1_14
+  - first:
+      213: 2230420894610619710
+    second: Detective_1_15
+  - first:
+      213: -4245957108387016333
+    second: Detective_1_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Detective_1_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 511
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f05bc4be0ec734e0800000000000000
+      internalID: -2001904946784808717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 511
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b0a38c31f9fc130800000000000000
+      internalID: 3589262335350016834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 511
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0f5ba32b6af0b0800000000000000
+      internalID: -5694120977913410551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 511
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b25a090c40aa150800000000000000
+      internalID: 5884521088219949890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 383
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c1134451c011d0800000000000000
+      internalID: -3381990752508590692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 383
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a67a03a64cb9fc90800000000000000
+      internalID: -7135465123022735708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 383
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7248e30d034b0ca00800000000000000
+      internalID: 774817257652913191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 383
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b70dc991b388c310800000000000000
+      internalID: 1425534080875562937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 255
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f965ddcf71f6a54b0800000000000000
+      internalID: -5450922250161269089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 255
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841bfb06ad413db0800000000000000
+      internalID: -4813981151121435510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 255
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9ed91d94bbf43d0800000000000000
+      internalID: -3220149282822821380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 255
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1274fb9642f30faf0800000000000000
+      internalID: -364722144191494367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 127
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e59e2af7e60bba0800000000000000
+      internalID: -6075234402849694122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682a4dac27d666090800000000000000
+      internalID: -8041619744826809722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 127
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671c047202cc5e160800000000000000
+      internalID: 7054268829815325046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 127
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dffd28cfb04fe10800000000000000
+      internalID: 2230420894610619710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detective_1_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3711c0781845315c0800000000000000
+      internalID: -4245957108387016333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Detective_1_0: -2001904946784808717
+      Detective_1_1: 3589262335350016834
+      Detective_1_10: -3220149282822821380
+      Detective_1_11: -364722144191494367
+      Detective_1_12: -6075234402849694122
+      Detective_1_13: -8041619744826809722
+      Detective_1_14: 7054268829815325046
+      Detective_1_15: 2230420894610619710
+      Detective_1_16: -4245957108387016333
+      Detective_1_2: -5694120977913410551
+      Detective_1_3: 5884521088219949890
+      Detective_1_4: -3381990752508590692
+      Detective_1_5: -7135465123022735708
+      Detective_1_6: 774817257652913191
+      Detective_1_7: 1425534080875562937
+      Detective_1_8: -5450922250161269089
+      Detective_1_9: -4813981151121435510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
