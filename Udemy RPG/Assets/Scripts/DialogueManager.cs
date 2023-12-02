@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DialogManager : MonoBehaviour
-{
+public class DialogManager : MonoBehaviour {
     public Text nameText;
     public Text dialogueText;
     public GameObject dialogueBox; // Reference to the dialogue box GameObject
