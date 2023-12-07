@@ -47,11 +47,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicSounds:
-  - name: MainMenu
-    clip: {fileID: 0}
-  sfxSounds: []
+  - name: Main
+    clip: {fileID: 8300000, guid: f0b7efba9b61afc4fa2772c294c37275, type: 3}
+  - name: Chill
+    clip: {fileID: 8300000, guid: 23337b69e66f38743888861fb49e4e6d, type: 3}
+  - name: Investigation
+    clip: {fileID: 8300000, guid: d6afb1866de0cc34b803d2eb9ca59049, type: 3}
+  - name: Intense
+    clip: {fileID: 8300000, guid: bd67045257c0fa445b8123a2e0e8ddad, type: 3}
+  - name: Sad
+    clip: {fileID: 8300000, guid: b13c38819c268dc42af91c145f8fb498, type: 3}
+  - name: Happy
+    clip: {fileID: 8300000, guid: 0df40cec11c87ad48a880701066370b9, type: 3}
+  - name: Crime
+    clip: {fileID: 8300000, guid: e9746ef1bfa268b498e7e5eeddc49a4d, type: 3}
+  sfxSounds:
+  - name: walking_wood
+    clip: {fileID: 8300000, guid: aa470010f81099e478d99f94cdd9c407, type: 3}
+  - name: page_turn
+    clip: {fileID: 8300000, guid: e5f2eba64d0820c4b8e88deacca524f1, type: 3}
+  - name: mouse
+    clip: {fileID: 8300000, guid: 85dd4629290d9734bb689f10f4b49fb3, type: 3}
+  - name: walking_concrete
+    clip: {fileID: 8300000, guid: d06d1ddc42f7e41458f9b0e9fb951a19, type: 3}
+  - name: click
+    clip: {fileID: 8300000, guid: fdfc683e4928f794abaa4e403e0e0bf3, type: 3}
+  - name: polic
+    clip: {fileID: 8300000, guid: 88058209e516fc946b512634800b3c74, type: 3}
+  - name: typing
+    clip: {fileID: 8300000, guid: 94a52b284a3c03245b0b07c9e7eb8c69, type: 3}
   musicSource: {fileID: 5469111181226758481}
   sfxSource: {fileID: 1829202066970289610}
+  soundName: Main
 --- !u!1 &5550413808271876112
 GameObject:
   m_ObjectHideFlags: 0

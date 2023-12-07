@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magnifyglass_0: -2681598895944723872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
