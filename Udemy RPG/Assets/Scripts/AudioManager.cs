@@ -7,50 +7,50 @@ public class AudioManager : MonoBehaviour {
     public static AudioManager Instance;
     public Sound[] musicSounds, sfxSounds;
     public AudioSource musicSource, sfxSource;
+    public string soundName = "";
 
-    private void Awake()
-    {
-        if (Instance == null)
-        {
+    private void Awake() {
+        if (Instance == null) {
             Instance = this;
             DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
+        } else {
             Destroy(gameObject);
         }
     }
-    private void Start()
-    {
-        PlayMusic(""); //add main menu music.
+    private void Start() {
+        PlayMusic(soundName); //add main menu music.
     }
 
-    public void PlayMusic(string name)
-    {
+    public void PlayMusic(string name) {
         Sound s = Array.Find(musicSounds, x => x.name == name);
 
-        if (s == null) 
-        {
+        if (s == null) {
             Debug.Log("sound null");
-        }
-        else
-        {
+        } else {
             musicSource.clip = s.clip;
             musicSource.Play();
         }
     }
-    public void PlaySFX(string name)
-    {
+    public void PlaySFX(string name) {
         Sound s = Array.Find(sfxSounds, x => x.name == name);
 
-        if (s == null)
-        {
+        if (s == null) {
             Debug.Log("sound null");
-        }
-        else
-        {
+        } else {
             sfxSource.PlayOneShot(s.clip);
         }
     }
 
+    public void stopMusic() { 
+        musicSource.Stop();
+    }
+
+    public void stopSFX() {
+        sfxSource.Stop();
+    }
+
+    public void stopAll() {
+        stopMusic();
+        stopSFX();
+    }
 }
